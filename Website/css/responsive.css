@@ -1,0 +1,378 @@
+/* Smartphones (portrait and landscape) ----------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 736px) {
+    .search-box-main {
+        margin-top: 27rem;
+    }
+    body {
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Josefin Sans', sans-serif;
+        letter-spacing: 1px;
+        display: block;
+        width: 100%;
+    }
+    #main-img,
+    span b {
+        font-size: 22px;
+        color: #f44336;
+    }
+    #myCarousel {
+        background-image: none !important;
+        padding: 10px 0px;
+    }
+    #basicExampleModal {
+        z-index: 10000000 !important;
+        width: 98% !important;
+    }
+    #modalCookie1 {
+        z-index: 1000001 !important;
+        width: 98% !important;
+    }
+    /* .carousel-caption {
+        bottom: 30%;
+    } */
+    #nav-suggestion {
+        padding: 8px;
+        display: none;
+        scroll-behavior: auto;
+        overflow: scroll;
+        height: 600px;
+        width: 100%;
+    }
+    #nav-suggestion p {
+        font-size: 14px;
+        padding: 6px 15px;
+        cursor: pointer;
+        color: #000;
+        display: block;
+        background-color: #f1f1f1;
+        border-radius: 8px;
+        margin: 5px;
+        border: 2px solid transparent;
+    }
+    #nav-suggestion p:hover {
+        -webkit-animation-name: example;
+        -webkit-animation-duration: 1.2s;
+        -webkit-animation-timing-function: linear;
+        animation-name: example;
+        animation-duration: 1.2s;
+        animation-timing-function: linear;
+    }
+    @-webkit-keyframes example {
+        0% {
+            border-left: 2px solid #9575cd;
+        }
+        25% {
+            border-bottom: 2px solid #9575cd;
+        }
+        50% {
+            border-right: 2px solid #9575cd;
+        }
+        100% {
+            border-top: 2px solid #9575cd;
+            border-left: 2px solid #9575cd;
+        }
+    }
+    #suggestion {
+        padding: 8px;
+        display: none;
+        width: 100%;
+    }
+    #suggestion p {
+        font-size: 14px;
+        padding: 8px 15px;
+        cursor: pointer;
+        color: #000;
+        display: block;
+        background-color: #f1f1f1;
+        border-radius: 10px;
+        margin: 5px;
+        border: 2px solid transparent;
+    }
+    #suggestion p:hover {
+        -webkit-animation-name: sug;
+        -webkit-animation-duration: 1.5s;
+        -webkit-animation-timing-function: linear;
+        animation-name: sug;
+        animation-duration: 1.5s;
+        animation-timing-function: linear;
+    }
+    @-webkit-keyframes sug {
+        0% {
+            border-left: 2px solid #9575cd;
+        }
+        25% {
+            border-bottom: 2px solid #9575cd;
+        }
+        50% {
+            border-right: 2px solid #9575cd;
+        }
+        100% {
+            border-top: 2px solid #9575cd;
+            border-left: 2px solid #9575cd;
+        }
+    }
+    .top {
+        height: 75px;
+        background-color: #593187;
+    }
+    .navbar {
+        padding: 15px 8px;
+        z-index: 99999;
+        background-color: #593187;
+        position: fixed;
+    }
+    .navbar-brand {
+        margin-left: 100px;
+    }
+    .navbar-brand {
+        margin-left: 111px;
+    }
+    #modalPoll-1 {
+        z-index: 10000000 !important;
+        width: 98% !important;
+    }
+    #services {
+        background-color: #fff;
+        padding: 20px 10px;
+    }
+    #reviews {
+        padding: 20px 0px;
+        background-color: #3c3d51;
+    }
+    #about {
+        padding: 20px 5px;
+    }
+    #contact {
+        padding: 20px 10px;
+    }
+    iframe {
+        height: 400px;
+    }
+    .ft-abt {
+        padding-left: 25px;
+    }
+    #joincontent,
+    #joinform {
+        margin-top: 25px;
+    }
+    .mob-review-text {
+        background-color: #f1f1f1;
+        border-radius: 5px;
+        padding: 8px 15px;
+        font-size: 12px;
+        margin-top: 5px;
+    }
+    .review-img img {
+        border-radius: 50%;
+        border: 3px solid #f1f1f1;
+    }
+    .price-text {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 10px;
+        background-color: rgb(116, 84, 153);
+        color: #f1f1f1 !important;
+        opacity: 1;
+    }
+    #serviceImg {
+        margin-top: 433px;
+        margin-bottom: -10px;
+    }
+    #spaceMob {
+        margin-top: 64px;
+    }
+    #demo {
+        margin-top: 500px;
+    }
+    .text-block4 h2 {
+        font-size: 26px;
+        margin-left: -30px;
+    }
+    .text-block-3 {
+        color: #000;
+        font-size: 24px;
+        text-shadow: 2px 2px 5px #ccc;
+    }
+}
+
+
+/* iPads (portrait and landscape) ----------- */
+
+@media only screen and (min-device-width: 736px) and (max-device-width: 1024px) {
+    body {
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Josefin Sans', sans-serif;
+        letter-spacing: 1px;
+        display: block;
+        width: 100%;
+    }
+    #myCarousel {
+        background-image: none !important;
+        padding: 10px 0px;
+    }
+    #basicExampleModal {
+        z-index: 10000000 !important;
+        width: 98% !important;
+    }
+    #modalCookie1 {
+        z-index: 1000001 !important;
+        width: 98% !important;
+    }
+    .carousel-caption {
+        bottom: 5%;
+    }
+    .search-box-main {
+        margin-top: 15rem;
+    }
+    .top {
+        height: 75px;
+        background-color: #593187;
+    }
+    .navbar {
+        padding: 15px 8px;
+        z-index: 99999;
+        background-color: #593187;
+        position: fixed;
+    }
+    .navbar-brand {
+        margin-left: 89px;
+    }
+    .navbar-brand {
+        margin-left: 467PX;
+    }
+    .navbar-brand {
+        margin-left: -6px;
+    }
+    #modalPoll-1 {
+        z-index: 10000000 !important;
+        width: 98% !important;
+    }
+    #services {
+        background-color: #fff;
+        padding: 20px 0px;
+    }
+    #modalQuickView {
+        z-index: 10000001 !important;
+    }
+    .loader,
+    .loader:after {
+        border-radius: 50%;
+        width: 10em;
+        height: 10em;
+    }
+    .loader {
+        top: 0%;
+        left: 0%;
+        font-size: 10px;
+        position: relative;
+        text-indent: -9999em;
+        border-top: 1.1em solid rgba(255, 255, 255, 0.2);
+        border-right: 1.1em solid rgba(255, 255, 255, 0.2);
+        border-bottom: 1.1em solid rgba(255, 255, 255, 0.2);
+        border-left: 1.1em solid #ffffff;
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        -webkit-animation: load8 1.1s infinite linear;
+        animation: load8 1.1s infinite linear;
+    }
+    @-webkit-keyframes load8 {
+        0% {
+            -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+        }
+        100% {
+            -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+        }
+    }
+    @keyframes load8 {
+        0% {
+            -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+        }
+        100% {
+            -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+        }
+    }
+    #loadingDiv {
+        position: absolute;
+        ;
+        top: 0%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #000;
+        z-index: 1000000;
+    }
+    /* Upholstery media css*/
+    .banner_part .single_banner_slider .banner_text .banner_img {
+        margin-top: 100px;
+        height: 350px;
+    }
+    /* text block is of carpenter*/
+    .text-block4 h2 {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
+    .carousel-caption {
+        bottom: 15%;
+    }
+    #main-img,
+    span b {
+        font-size: 22px;
+        color: #f44336;
+    }
+    /* Upholstery media css*/
+    .banner_part .single_banner_slider .banner_text {
+        height: 350px;
+    }
+    /* text block is of carpenter*/
+    .text-block4 h2 {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+    .carousel-caption {
+        bottom: 7%;
+    }
+    #main-img,
+    span b {
+        font-size: 22px;
+        color: #fff;
+    }
+    p,
+    h5 {
+        color: #fff;
+    }
+    /* text block is of carpenter*/
+    .text-block4 h2 {
+        font-size: 16px;
+    }
+}
+
+
+/* Desktops and laptops ----------- */
+
+@media only screen and (min-width: 1224px) {
+    .carousel-caption {
+        bottom: 30%;
+    }
+}
+
+
+/* Large screens ----------- */
+
+@media only screen and (min-width: 1824px) {
+    .carousel-caption {
+        bottom: 30%;
+    }
+}

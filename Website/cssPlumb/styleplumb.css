@@ -1,0 +1,327 @@
+/****************CSS for Plumbing************************/
+
+
+/*****Banner for Plumbing ******/
+
+.banner {
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 590px;
+    position: relative;
+    margin-top: 49px;
+}
+
+.banner-info {
+    width: 48%;
+    margin: -23em 0 0;
+    color: #fff;
+}
+
+body {
+    overflow: hidden;
+}
+
+.c--anim-btn p {
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+    /* text-decoration: none; */
+    /* text-align: center; */
+    /* display: block; */
+}
+
+.c--anim-btn,
+.c-anim-btn h3 {
+    transition: 3.5s;
+}
+
+.c--anim-btn {
+    height: 64px;
+    font: normal normal 700 1em/4em Arial, sans-serif;
+    overflow: hidden;
+    width: 800px;
+}
+
+.c-anim-btn {
+    margin-top: 0em;
+}
+
+.c--anim-btn:hover .c-anim-btn {
+    margin-top: -4em;
+}
+
+p {
+    color: #000;
+}
+
+#heading:hover {
+    color: #673ab7;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#tit:hover {
+    color: #673ab7;
+}
+
+h1 {
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 15vw;
+    width: 100vw;
+    margin-top: calc(50vh - 10vw);
+    background: linear-gradient( 60deg, hsl(0, 0%, 100%) 10%, hsl(20, 83%, 76%) 10%, hsl(24, 26%, 96%) 25%, hsl(210, 8%, 95%) 25%, hsl(230, 39%, 91%) 40%, hsl(180, 100%, 67%) 40%, hsl(180, 100%, 81%) 55%, hsl(200, 75%, 50%) 55%, hsl(200, 75%, 50%) 70%, hsl(0, 0%, 99%) 70%, hsl(260, 70%, 78%) 85%, hsl(180, 12%, 92%) 85%);
+    /* text-shadow: 0.5px -0.6vw #fff4; */
+    color: #fff;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: 10s BeProud linear infinite, 3s Always ease alternate infinite;
+}
+
+
+/* .navbar-brand{
+  margin-left: 35px;
+} */
+
+#line {
+    border-top: 4px solid #673ab7;
+    width: 110px;
+    height: 1px;
+    text-align: center;
+    display: block;
+    margin: -9px auto;
+}
+
+#btn {
+    padding: 18px 38px;
+    border: 2px solid transparent;
+    text-transform: uppercase;
+    border-radius: 0px;
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 600;
+    box-shadow: #999999 0px 0px 0px 0px;
+}
+
+#btn:focus {
+    outline: 0px;
+    border: 0px;
+    box-shadow: none;
+}
+
+@keyframes BeProud {
+    100% {
+        background-position: 100vw 0px;
+    }
+}
+
+@keyframes Always {
+    100% {
+        transform: scale(1.1);
+    }
+}
+
+
+/*
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+    .banner-info-left h1 {
+        font-size: 2.2em;
+    }
+    .banner-info {
+        margin: -18em 0 0;
+        color: #fff;
+    }
+    .c--anim-btn,
+    .c-anim-btn {
+        transition: 5.3s;
+    }
+    .banner-info h1 {
+        margin-top: -11em;
+        font-size: 31px;
+        font-weight: 700;
+    }
+}
+
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .banner-info {
+        margin: 8em 0 0;
+    }
+    .banner {
+        min-height: 510px;
+    }
+    .banner-info h1 {
+        margin-top: -14em;
+        font-size: 31px;
+    }
+    .c--anim-btn,
+    .c-anim-btn {
+        transition: 1.3s;
+        width: 283px;
+    }
+    label h3 {
+        margin-top: 4em;
+    }
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .banner-info h1 {
+        margin-top: -11em;
+        font-size: 26px;
+        line-height: 30px;
+        width: 466px;
+        font-weight: 800;
+    }
+    .navbar-brand {
+        margin-left: 500px;
+    }
+    .banner-info {
+        margin: 8em 0 0;
+    }
+    .banner {
+        min-height: 150px;
+    }
+    .c--anim-btn,
+    .c-anim-btn {
+        transition: 1.3s;
+        width: 283px;
+    }
+    label h3 {
+        margin-top: 4em;
+    }
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    .banner-info {
+        margin: 8em 0 0;
+    }
+    .banner {
+        min-height: 510px;
+    }
+    .banner-info h1 {
+        margin-top: -12em;
+        line-height: 10px;
+        width: 466px;
+        font-weight: 800;
+    }
+    .c--anim-btn,
+    .c-anim-btn {
+        transition: 1.3s;
+        width: 500px;
+    }
+    label h3 {
+        margin-top: 4em;
+    }
+    .single-counter img {
+        width: 94%;
+    }
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .banner-info {
+        margin: 8em 0 0;
+    }
+    .banner {
+        min-height: 166px;
+    }
+    .banner-info h1 {
+        margin-top: -14em;
+        font-size: 22px;
+        line-height: 25px;
+        width: 466px;
+        font-weight: 800;
+    }
+    .c--anim-btn,
+    .c-anim-btn {
+        transition: 1.3s;
+        width: 283px;
+    }
+    label h3 {
+        margin-top: 5em;
+    }
+}
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+
+*/
+
+@media (min-width:250px) and (max-width:320px) {
+    .serv {
+        margin-top: 135px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .navbar-brand {
+        margin-left: 98px;
+        float: right;
+    }
+    .banner-info h1 {
+        margin-top: -17em;
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: 700;
+    }
+    .banner-info {
+        margin: 8em 0 0;
+    }
+    .banner {
+        min-height: 510px;
+    }
+    .c--anim-btn,
+    .c-anim-btn {
+        transition: 1.3s;
+        width: 300px;
+    }
+    .serv {
+        margin-top: 115px;
+    }
+    .single-counter img {
+        width: 94%;
+    }
+}
+
+@media (min-width: 411px) and (max-width:823px) {
+    .serv {
+        margin-top: 120px;
+    }
+    .banner-info h1 {
+        /* margin-top: -17em; */
+        font-size: 20px;
+        /* line-height: 28px; */
+        font-weight: 700;
+    }
+}

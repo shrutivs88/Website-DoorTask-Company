@@ -1,0 +1,687 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Lucky Wheel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-11 08:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:434
+msgid " seconds"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:442
+msgid " to be able to spin again."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1690
+msgid "\"From\" address"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1681
+msgid "\"From\" name"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:436
+#, php-format
+msgid "%s days %s hours %s minutes %s seconds"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:438
+#, php-format
+msgid "%s hours %s minutes %s seconds"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:440
+#, php-format
+msgid "%s minutes %s seconds"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1660
+msgid "*The total Probability: "
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1891
+msgid "Active Campaign"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1365
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1372
+msgid "Add Image"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:223
+msgctxt "Add new on Admin bar"
+msgid "Emails"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:222
+msgctxt "Admin menu"
+msgid "Emails"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:910
+msgid "Allow URL Open"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1669
+msgid "Auto Color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1199
+msgid "Automactically show wheel"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1819
+msgid "Automatically hide wheel after finishing spinning"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1380
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1767
+msgid "Background color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1348
+msgid "Background image"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1752
+msgid "Base color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1782
+msgid "Body background color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1798
+msgid "Body text color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1445
+msgid "Bottom - Premium version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1178
+msgid "Bottom Left"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1181
+msgid "Bottom Right"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1395
+msgid "Button spin"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1421
+msgid "Button spin background color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1406
+msgid "Button spin color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1053
+msgid "Cancel"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1442
+msgid "Center"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1647
+msgid "Clone"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Collect customers emails by let them play interesting Lucky wheel game to "
+"get interesting awards"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1606
+msgid "Color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1312
+msgid "Conditional tags"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:474
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:529
+msgid ""
+"Congrats! You have won a {prize_label}. The code was sent to the email "
+"address that you had entered to spin. Thank You!"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1618
+msgid "Custom"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:251
+msgid "Customer name"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1731
+msgid "Customer's name."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1849
+msgid "Customers'name if they enter"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1145
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1251
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1277
+msgid "Days"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1126
+msgid "Delay between each spin of an email"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1082
+msgid "Email API"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1720
+msgid "Email content"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1710
+msgid "Email heading"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1078
+msgid "Email Settings"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1699
+msgid "Email subject"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:225
+msgid "Email Subscribe"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1851
+msgid "Email that customers enter to spin"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:709
+msgid "Emails"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:865
+msgid "Emails Subcribed"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1089
+msgid "Enable"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1876
+msgid "Enable Mailchimp"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1103
+msgid "Enable mobile"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1214
+msgid "Enter min,max to set random between min and max (seconds)."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1316
+msgid "Ex: !is_page(array(123,41,20))"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:885
+msgid "Export Emails"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:898
+msgid "file_get_contents"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1741
+msgid "Footer text"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:876
+msgid "From"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1592
+msgid "From 3s to 15s."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1859
+msgid "Frontend message if lost"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1834
+msgid "Frontend Message if win"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1080
+msgid "Frontend Result"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1553
+msgid "GDPR checkbox"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1568
+msgid "GDPR message"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1070
+msgid "General"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1220
+msgid "Hide popup icon"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1142
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1248
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1274
+msgid "Hours"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2294
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2427
+msgid "I agree with the term and condition"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1234
+msgid "If customers close and not spin, show popup again after"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1601
+msgid "Index"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1209
+msgid "Initial time"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1603
+msgid "Label"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1735
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1847
+msgid "Label of prize that customers win"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:254
+msgid "Labels"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1829
+msgid "Left 0 to let customer close it manually"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1321
+msgid ""
+"Let you control on which pages WordPress Lucky Wheel icon appears using "
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:859
+msgid "Lucky Wheel Report"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1172
+msgid "Middle Left"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1175
+msgid "Middle Right"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1139
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1245
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1271
+msgid "Minutes"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2305
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2438
+msgid "Never"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:229
+msgid "No Email found in Trash."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:228
+msgid "No Email found."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2308
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2441
+msgid "No thanks"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1617
+msgid "Non"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:252
+msgid "Number of spins"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1052
+msgid "OK"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:371
+msgid "OOPS! You are not lucky today. Sorry."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:227
+msgid "Parent Email:"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2279
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2412
+msgid "Please enter your email"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2272
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2405
+msgid "Please enter your name"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1436
+msgid "Pointer position"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1072
+msgid "Pop-up"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1196
+msgid "Popup icon"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1158
+msgid "Position"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1183
+msgid "Position of the popup on screen"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1602
+msgid "Prize type"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1605
+msgid "Probability(%)"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1202
+msgid "Random one of these above - Premium version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2302
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2435
+msgid "Remind later"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1360
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1646
+msgid "Remove"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:711
+msgid "Report"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1444
+msgid "Right - Premium version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1917
+msgid "Save"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:226
+msgid "Search Email"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1136
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1268
+msgid "Seconds"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1827
+msgid "seconds"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1536
+msgid "Select font"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1189
+msgid "Select intent"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1904
+msgid "SendGrid"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:205
+msgid "Settings"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1297
+msgid "Show only on Blog page"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1283
+msgid "Show only on Homepage"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1522
+msgid "Show text option to not display wheel again"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1200
+msgid ""
+"Show wheel after users scroll down a specific value - Premium version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1201
+msgid ""
+"Show wheel when users move mouse over the top to close browser - Premium "
+"version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1656
+msgid "Slices positions are sortable by drag and drop."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1510
+msgid "Slices text color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:394
+msgid ""
+"Sorry, this email is marked as spam now. Please enter another email to "
+"continue."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:717
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:894
+msgid "System Status"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1721
+msgid ""
+"The content of email sending to customers to inform them the prize they win."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1715
+msgid "The heading of emails sending to customers when they win."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1704
+msgid "The subject of emails sending to customers when they win."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:426
+msgid "This email has reach the maximum spins."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:253
+msgid "Time"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1117
+msgid "Times spinning per email"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:878
+msgid "To"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1443
+msgid "Top - Premium version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1166
+msgid "Top Left"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1169
+msgid "Top Right"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:864
+msgid "Total Spins"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2286
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2419
+msgid "Try Your Lucky"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1470
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1496
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1505
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1591
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1880
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1895
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1908
+msgid "Upgrade This Feature"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1604
+msgid "Value"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1733
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1853
+msgid "Value of prize that will be sent to customer."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:255
+msgid "Values/Code"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:224
+msgid "View Email"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1492
+msgid "Wheel border color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1501
+msgid "Wheel border dot color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1466
+msgid "Wheel center background image"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1477
+msgid "Wheel center color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1336
+msgid "Wheel description"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1074
+msgid "Wheel Design"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1451
+msgid "Wheel pointer color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1076
+msgid "Wheel Settings"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1586
+msgid "Wheel spinning duration"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1258
+msgid "When finishing a spin, show popup again after"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:866
+msgid "Won prize"
+msgstr ""
+
+#. Name of the plugin
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:704
+msgid "Wordpress Lucky Wheel"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:231
+msgid "Wordpress lucky wheel emails."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1065
+msgid "Wordpress Lucky Wheel Settings"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:704
+msgid "WP Lucky Wheel"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:1322
+msgid "WP's conditional tags"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:442
+msgid "You have to wait "
+msgstr ""
+
+#: E:/Git/VILLAT~1/WP-LUC~1/wp-lucky-wheel/wp-lucky-wheel.php:2029
+msgid "Your settings have been saved!"
+msgstr ""

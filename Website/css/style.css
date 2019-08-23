@@ -952,8 +952,7 @@ h6,
     font-size: 14px;
 }
 
-
-/* .btn {
+.btn {
     padding: 18px 38px;
     border: 2px solid transparent;
     text-transform: uppercase;
@@ -962,7 +961,7 @@ h6,
     line-height: 14px;
     font-weight: 600;
     box-shadow: #999999 0px 0px 0px 0px;
-} */
+}
 
 .btn:focus {
     outline: 0px;

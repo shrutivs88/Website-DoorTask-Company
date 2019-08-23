@@ -196,6 +196,23 @@
         font-size: 24px;
         text-shadow: 2px 2px 5px #ccc;
     }
+    .abt-j {
+        margin-left: -20px;
+    }
+    #paint {
+        margin-left: -30px;
+        margin-right: 10px;
+    }
+    #head {
+        font-size: 25px;
+    }
+    #head1 {
+        font-size: 25px;
+        margin-right: 30px;
+    }
+    #check {
+        font-size: 25px;
+    }
 }
 
 
@@ -319,6 +336,10 @@
     .text-block4 h2 {
         font-size: 16px;
     }
+    #paint {
+        margin-left: -30px;
+        margin-right: 10px;
+    }
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
@@ -353,9 +374,16 @@
     h5 {
         color: #fff;
     }
+    #location {
+        color: #000;
+    }
     /* text block is of carpenter*/
     .text-block4 h2 {
         font-size: 16px;
+    }
+    #paint {
+        margin-left: -30px;
+        margin-right: 5px;
     }
 }
 

@@ -163,7 +163,7 @@
 
 .text-block-3 {
     color: #000;
-    text-shadow: 2px 2px 5px #ccc;
+    /* text-shadow: 2px 2px 5px #ccc; */
 }
 
 .text-about {
@@ -243,6 +243,10 @@
     .single-slide {
         height: 600px;
     }
+    /* #bg-img2 {
+        height: 1150px;
+    } */
+    .text-block {}
     .wrap {
         text-align: center;
     }
@@ -252,6 +256,10 @@
     .single-slide {
         height: 600px;
     }
+    /* #bg-img2 {
+        height: 1150px;
+    } */
+    .text-block {}
     .wrap {
         text-align: center;
     }
@@ -261,6 +269,7 @@
     .single-slide {
         height: 600px;
     }
+    .text-block {}
     .wrap {
         text-align: center;
     }
@@ -308,6 +317,7 @@
     color: #ffffff;
     font-weight: 600;
     margin-bottom: 10px;
+    /* margin-top: 529px; */
 }
 
 .single-slide .welcome-text h2 span {

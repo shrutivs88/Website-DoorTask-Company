@@ -715,7 +715,13 @@ input:-webkit-autofill:focus {
 
 .blog-details {
     /* background: #fff none repeat scroll 0 0; */
-    padding: 30px 20px;
+    padding: 30px 20px 0px;
+    position: relative;
+}
+
+.blog-details1 {
+    /* background: #fff none repeat scroll 0 0; */
+    padding: 30px 20px 5px;
     position: relative;
 }
 

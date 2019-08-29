@@ -220,6 +220,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <a href="https://www.facebook.com/doortask/" target="_blank"><i class="fab fa-lg fa-facebook mr-3 ml-3 p-1"></i></a>
                         <a href="https://www.instagram.com/doortask/" target="_blank"><i class="fab fa-lg fa-instagram mr-3 p-1"></i></a>
                         <a href="https://in.linkedin.com/company/doortask" target="_blank"><i class="fab fa-lg fa-linkedin mr-3 p-1"></i></a>
+                        <a href="https://www.youtube.com/channel/UC_XWWBH0gF2__qw2s7mUu3w" target="_blank"><i class="fab fa-youtube mr-3 p-1" style="font-size: 28px;
+                            margin-top: -5px;"></i></a>
                     </div>
                 </div>
                 <div class="col-md-4">

@@ -15,6 +15,16 @@
     .form-header {
         margin-top: 20px;
     }
+    #spaceMob {
+        font-size: 35px;
+    }
+    #ourCmob {
+        color: #000;
+        font-size: 35px;
+    }
+    #reviewMob {
+        font-size: 35px;
+    }
     #main-img,
     span b {
         font-size: 22px;

@@ -12,6 +12,9 @@
         display: block;
         width: 100%;
     }
+    .form-header {
+        margin-top: 20px;
+    }
     #main-img,
     span b {
         font-size: 22px;

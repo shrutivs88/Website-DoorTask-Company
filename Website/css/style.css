@@ -147,7 +147,7 @@ margin-top: auto;
     #downloadBtn {
         background: #673ab7;
         color: white;
-        height: 30px;
+        height: 37px;
         padding: 7px;
         width: 12em;
         margin-left: -72px;
@@ -167,11 +167,13 @@ margin-top: auto;
         transform: translateY(-50%); */
     }
     
-    .sideNavBtn1 a {
+    .sideNavBtn1,
+    carousel-inner a {
         display: block;
         text-align: center;
         padding: 0px;
         height: 150px;
+        z-index: 1;
         /* transition: all 0.3s ease; */
         color: white;
         font-size: 20px;

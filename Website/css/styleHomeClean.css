@@ -87,6 +87,7 @@
     line-height: 30px;
     padding-bottom: 30px;
     position: relative;
+    margin-bottom: -25px;
     z-index: 1;
 }
 
@@ -109,9 +110,29 @@
     z-index: 1;
 }
 
-.banners a:hover .txt3 {
-    color: #fff;
+.vaccum {
+    margin-left: 60px;
 }
+
+#arrow {
+    display: flex;
+    list-style: none;
+    margin-left: -70px;
+}
+
+#arrowLi {
+    margin-bottom: -118px;
+    ;
+}
+
+#location {
+    margin-top: 8px;
+}
+
+
+/* .banners a:hover .txt3 {
+    color: #fff;
+} */
 
 .banners a .img {
     position: absolute;
@@ -249,18 +270,6 @@
     position: absolute;
     width: 100%;
 }
-
-
-/* 
-.camera_nav_cont {
-    height: 65px;
-    overflow: hidden;
-    position: absolute;
-    right: 9px;
-    top: 15px;
-    width: 120px;
-    z-index: 4;
-} */
 
 .camera_caption {
     bottom: 0;

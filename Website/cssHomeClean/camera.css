@@ -209,14 +209,6 @@
     z-index: 2;
 }
 
-
-/* .camera_target_content .camera_link {
-    background: url(../images/blank.gif);
-    display: block;
-    height: 100%;
-    text-decoration: none;
-} */
-
 .camera_loader {
     background: #fff url(../img/homecleanimgs/camera-loader.gif) no-repeat center;
     background: rgba(255, 255, 255, 0.9) url(../img/homecleanimgs/camera-loader.gif) no-repeat center;
@@ -331,11 +323,6 @@
     top: 50%;
     width: 30px;
 }
-
-
-/* .camera_command_wrap .hideNav {
-    display: none;
-} */
 
 .camera_command_wrap {
     left: 0;

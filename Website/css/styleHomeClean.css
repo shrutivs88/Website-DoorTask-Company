@@ -129,6 +129,15 @@
     margin-top: 8px;
 }
 
+#clean {
+    margin-left: -36px;
+    font-size: 14px;
+}
+
+.icon:hover {
+    color: #673ab7;
+}
+
 
 /* .banners a:hover .txt3 {
     color: #fff;
@@ -1506,11 +1515,21 @@
     min-height: 200px;
 }
 
+
+/* 
 .girl1 {
     bottom: -72px;
     left: 5%;
     position: absolute;
     z-index: 2;
+} */
+
+.men1 {
+    bottom: -109px;
+    left: 4%;
+    position: absolute;
+    z-index: 2;
+    height: 462px;
 }
 
 .tree1 {
@@ -1543,7 +1562,7 @@
     height: 17px;
     padding: 0;
     margin: 0 5px;
-    background: url(../img/homecleanimgs/paginations.png) left top no-repeat;
+    background: url(../img/homecleanimgs/paginations1.png) left top no-repeat;
     display: inline-block;
     border-radius: 0px;
     -moz-border-radius: 0px;
@@ -1628,7 +1647,14 @@
 @media (min-width: 1200px) {}
 
 @media (max-width: 979px) {
-    .girl1 {
+    /* .girl1 {
+        bottom: -52px;
+        left: 5%;
+        position: absolute;
+        z-index: 2;
+        width: 170px;
+    } */
+    .men1 {
         bottom: -52px;
         left: 5%;
         position: absolute;
@@ -1645,7 +1671,10 @@
 }
 
 @media (max-width: 767px) {
-    .girl1 {
+    /* .girl1 {
+        display: none;
+    } */
+    .men1 {
         display: none;
     }
     .tree1 {
@@ -1663,5 +1692,17 @@
     #profmob {
         font-size: 22px;
         color: #000;
+        margin-top: 20px;
+    }
+    .camera_target {
+        height: 100%;
+        overflow: hidden;
+        position: absolute;
+        text-align: left;
+        width: 100%;
+        margin-top: 56px;
+    }
+    .camera_wrap .camera_pag .camera_pag_ul {
+        margin-bottom: -25px;
     }
 }

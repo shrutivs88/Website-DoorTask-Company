@@ -77,7 +77,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <a class="nav-link wow fadeIn delay-1s" href="index.html#services">Services</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link wow fadeIn delay-1s" href="AboutUs.html">About</a>
+                        <a class="nav-link wow fadeIn delay-1s" href="aboutus.html">About</a>
                      </li>
                      <li class="nav-item">
                         <a class="nav-link wow fadeIn delay-1s" href="contact.php" >Contact</a>

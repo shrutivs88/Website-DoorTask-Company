@@ -196,7 +196,7 @@
 
         }
 
-        fakeHover.append('<img src="img/homecleanimgs/girl1.png" alt=" girl image" class="girl1">'); // tola
+        fakeHover.append('<img src="img/homecleanimgs/male-staff-cleaning2.png" alt=" men image" class="men1">'); // tola
         fakeHover.append('<img src="img/homecleanimgs/tree1.png" alt="tree image" class="tree1">'); // tola
 
         wrap.append(

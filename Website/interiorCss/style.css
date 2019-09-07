@@ -125,7 +125,7 @@ address {
 p ul,
 li {
     color: #000;
-    font-weight: bolder;
+    /* font-weight: bolder; */
     list-style: none;
     font-family: 'Josefin Sans', sans-serif;
 }
